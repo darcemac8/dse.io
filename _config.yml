@@ -4,7 +4,7 @@ markdown: rdiscount
 prose:
   rooturl: '_posts'
   siteurl: 'https://github.com/darcemac8/dse.io'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  #relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
   metadata:
     _posts:
