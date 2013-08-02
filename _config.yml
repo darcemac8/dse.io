@@ -4,7 +4,7 @@ markdown: rdiscount
 
 prose:
     rooturl: "_posts"
-    images: "img"
+    media: "img"
     metadata:
         "_posts": |
 
